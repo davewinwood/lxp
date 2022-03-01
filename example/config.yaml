@@ -3,7 +3,7 @@ name: Example add-on
 version: "1.1.0"
 slug: example
 description: Example add-on
-url: "https://github.com/home-assistant/addons-example/tree/main/example"
+url: "https://https://github.com/davewinwood/lxp/blob/main/example/"
 arch:
   - armhf
   - armv7
@@ -12,7 +12,7 @@ arch:
   - i386
 init: false
 options:
-  message: "Hello world..."
+  message: "Hello LXP world..."
 schema:
   message: "str?"
 image: "ghcr.io/home-assistant/{arch}-addon-example"
